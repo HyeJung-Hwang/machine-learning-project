@@ -1,6 +1,6 @@
 # 2023-3 EWHA Machine Learing Project
 ## 프로젝트 소개
-머신러닝과 딥러닝을 활용한 Website Fingerprinting.
+머신러닝과 딥러닝을 활용한 Website Fingerprinting 태스크를 진행했습니다.
 
 ## 레포지토리 구조
 ```
@@ -28,4 +28,3 @@ git clone https://github.com/HyeJung-Hwang/machine-learning-project.git
 cd machine-learning-project
 ```
 - closed_world 폴더 내부의 ipynb 파일과, open_world 폴더 내부의 ipynb 파일들을 실행시켜주세요.
-
