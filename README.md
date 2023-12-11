@@ -5,6 +5,7 @@
 ## 레포지토리 구조
 ```
 machine-learning-project
+├── main.ipynb
 ├── k-NN.ipynb
 ├── randomforest.ipynb
 ├──
