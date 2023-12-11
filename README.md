@@ -1,8 +1,10 @@
 # 2023-3 EWHA Machine Learing Project
-## 프로젝트 소개
-머신러닝과 딥러닝을 활용한 Website Fingerprinting 태스크를 진행했습니다.
+## Project Info
+- Website fingerprinting on anonymous network
+• Fingerprinting websites based on the network traffic pattern analysis
+• Analysis High Complex Digital Fingerprints using Machine Learning & Deep Learning
 
-## 레포지토리 구조
+## Repository structure
 ```
 ├── README.md
 ├── closed_world
@@ -18,13 +20,15 @@
 └── unmon_standard10.pkl
 ```
 
-## 코드 실행
-- 현재 레포지토리를 clone 해주세요.
+## How to run this code
+- Please clone the current repository.
 ```
 git clone https://github.com/HyeJung-Hwang/machine-learning-project.git
 ```
-- clone 받은 레포지토리 폴더로 들어가 주세요.
+
+- Enter the folder of the cloned repository.
 ```
 cd machine-learning-project
 ```
-- closed_world 폴더 내부의 ipynb 파일과, open_world 폴더 내부의 ipynb 파일들을 실행시켜주세요.
+
+- Please execute the ipynb files in the closed_world folder and the ipynb files in the open_world folder.
