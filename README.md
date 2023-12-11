@@ -1,14 +1,18 @@
 # 2023-3 EWHA Machine Learing Project
 ## 프로젝트 소개
-머신러닝과 딥러닝을 활용한 Website Fingerprinting.
+머신러닝과 딥러닝을 활용한 Website Fingerprinting 태스크를 진행했습니다.
 
 ## 레포지토리 구조
 ```
 machine-learning-project
-├── main.ipynb # 최종 제출용 코드
-├── k-NN.ipynb # 실험에 쓰인 코드
-├── randomforest.ipynb  # 실험에 쓰인 코드
-└── README.md
+├── .gitattributes
+├── README.md
+├── k-NN.ipynb 
+├── main.ipynb # 최종 코드
+├── mon_standard.pkl 
+├── randomforest.ipynb 
+├── unmon_standard10.pkl 
+└── unmonitored_model.ipynb
 ```
 
 ## 코드 실행
