@@ -4,12 +4,18 @@
 
 ## 레포지토리 구조
 ```
-machine-learning-project
-├── main.ipynb
-├── k-NN.ipynb
-├── randomforest.ipynb
-├──
-└── README.md
+├── README.md
+├── closed_world
+│   └── closed_world.ipynb
+├── open_world
+│   ├── binary_class.ipynb
+│   └── milti_class.ipynb
+├── testing_history
+│   ├── k-NN.ipynb
+│   ├── randomforest.ipynb
+│   └── svm_naive_bayes.ipynb
+├── mon_standard.pkl
+└── unmon_standard10.pkl
 ```
 
 ## 코드 실행
@@ -21,5 +27,5 @@ git clone https://github.com/HyeJung-Hwang/machine-learning-project.git
 ```
 cd machine-learning-project
 ```
-- [데이터셋 공유 드라이브 링크](https://drive.google.com/drive/folders/1TlDA-1PdCwrzttVEf1IP8d_U6Bkjx5hq?usp=sharing) 에서 2가지 데이터셋을 모두 다운로드 받고 현재 경로로 이동시켜주세요.
-- 각 ipynb 파일을 실행해 주세요.
+- closed_world 폴더 내부의 ipynb 파일과, open_world 폴더 내부의 ipynb 파일들을 실행시켜주세요.
+
