@@ -1,10 +1,12 @@
 # 2023-3 EWHA Machine Learing Project
-## Project Info
-- Website fingerprinting on anonymous network
-• Fingerprinting websites based on the network traffic pattern analysis
-• Analysis High Complex Digital Fingerprints using Machine Learning & Deep Learning
+## 🐸 Project Info
+![image](https://github.com/HyeJung-Hwang/machine-learning-project/assets/81923229/14451e11-e07b-401c-834d-4a4fbbefa77b)
 
-## Repository structure
+### Website fingerprinting on anonymous network(Tor)
+  - Fingerprinting websites based on the network traffic pattern analysis
+  - Analysis High Complex Digital Fingerprints using Machine Learning & Deep Learning
+
+## 🏛 Repository structure
 ```
 ├── README.md
 ├── closed_world
@@ -20,7 +22,7 @@
 └── unmon_standard10.pkl
 ```
 
-## How to run this code
+## 🚀 How to run this code
 - Please clone the current repository.
 ```
 git clone https://github.com/HyeJung-Hwang/machine-learning-project.git
